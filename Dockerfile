@@ -2,7 +2,7 @@
 # Nginx Dockerfile
 #
 # https://github.com/firefight.io/nginx
-#
+# 
 
 # Pull base image.
 FROM ubuntu
